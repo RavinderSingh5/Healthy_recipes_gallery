@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37461d0e.css",
+    "main.js": "/static/js/main.72577afa.js",
+    "static/media/Avocado Egg delights.jpg": "/static/media/Avocado Egg delights.f7b86e9cf0e6fe70989c.jpg",
+    "static/media/Spinach-Stuffed Chicken.jpg": "/static/media/Spinach-Stuffed Chicken.053acc0452a2fe9eaa0b.jpg",
+    "static/media/Banana Honey Pancakes.jpg": "/static/media/Banana Honey Pancakes.d0bd9f68c2118ff4c137.jpg",
+    "static/media/Nutty Cranberry Oatmeal.jpg": "/static/media/Nutty Cranberry Oatmeal.9671fa47002bdcd4cff6.jpg",
+    "static/media/Garden Fresh Salad.jpg": "/static/media/Garden Fresh Salad.719a26fb4252cb25a613.jpg",
+    "static/media/Fresh Berry Bowl.jpg": "/static/media/Fresh Berry Bowl.4d380f839fa1d5efa608.jpg",
+    "static/media/Biryani.jpg": "/static/media/Biryani.dcba8118d2d9d3bfdddd.jpg",
+    "index.html": "/index.html",
+    "main.37461d0e.css.map": "/static/css/main.37461d0e.css.map",
+    "main.72577afa.js.map": "/static/js/main.72577afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37461d0e.css",
+    "static/js/main.72577afa.js"
+  ]
+}
